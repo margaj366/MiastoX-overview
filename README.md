@@ -22,3 +22,4 @@ Podczas wyścigu drużyny wykonywały różne zadania rozrzucone po całym kraju
 - zarządzanie zadaniami i listą uczestników.
 
 ## Screenshoty
+![Overview](ScreenShot.png)  
